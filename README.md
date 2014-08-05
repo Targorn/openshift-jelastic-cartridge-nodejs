@@ -1,0 +1,2 @@
+openshift-jelastic-cartridge-nodejs
+===================================
